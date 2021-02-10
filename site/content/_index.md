@@ -1,31 +1,20 @@
 ---
 title: Salut abonne toi à mon Insta @adriengaliii
 subtitle: (bon t'es pas obligé mais ça me ferais plaisir quoi)
-image: /img/home-jumbotron.jpg
+image: img/72386856_105244934229494_6989720719147925504_o.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Pourquoi la vie ?
+  text: Et pourquoi pas d'abord ?
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Voici des dessins que j'ai fait lel
+  text: Admire mon talent (inexistant) et n'oublie pas de t'abonner au Insta surtout
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/100388487_278151803369513_1358378089914040320_n.jpg
+    text: J'ai réalisé cette image pour un concours de dessin pokémon. C'était cool
+      mais j'ai perdu. (enfin j'ai fini 3ème sur 8 quoi)
+  - image: img/90528148_200393241381329_4647070347013652480_o.jpg
+    text: Il s'agit de Tom Nook le fameux voleur de clochettes du jeu Animal
+      Crossing (j'ai jamais joué mais je connais tkt ! T'as vu ma culture G ?)
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
